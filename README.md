@@ -6,8 +6,7 @@
 > Worlds (Multimodal GenAI)*, **Challenge Statement 2: Create a Visual Search
 > Assistant** (image-to-text + speech synthesis, built for accessibility).
 
-🎥 **Demo video (29 s):** [`docs/demo-video.mp4`](docs/demo-video.mp4)
-— pick a sample photo → live AI description → ask a follow-up question.
+🎥 **Demo video (29 s):** [`docs/demo-video.mp4`](docs/demo-video.mp4) · [YouTube](https://www.youtube.com/watch?v=U9jPT5BgaGw) — pick a sample photo → live AI description → ask a follow-up question.
 
 ![Home](docs/shot-1-home.png)
 
